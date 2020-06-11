@@ -69,6 +69,7 @@ export default {
   methods: {
     onSubmit() {
       console.log("submit!");
+
     },
     handleRemove(file, fileList) {
       console.log(file, fileList);
