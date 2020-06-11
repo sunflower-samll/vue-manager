@@ -107,7 +107,7 @@ export default {
     //查询所有商品分类名称
       API_product_cate().then(res=>{
         // console.log(res.data.categories)
-        // console.log(res.data.categories)
+        // console.log(res11111.data.categories)
         // console.log(res.data.categories)
         // console.log(res.data.categories)
         this.categories=res.data.categories
